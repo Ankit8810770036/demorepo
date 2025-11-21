@@ -14,7 +14,7 @@ int main(){
     
     cout<<"Your Entered elements are: ";
     for(int i=0; i<length; i++){
-        cout<<array[i]<<"";
+        cout<<array[i]<<" ";
     }
     return 0;
 }
